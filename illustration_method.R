@@ -1,3 +1,6 @@
+# This is an old script that illustrates the method used in
+# this project to identify warming levels breaching years
+
 library(tidyverse)
 library(ggforce)
 
